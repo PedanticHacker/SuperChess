@@ -34,16 +34,16 @@ indicates a legal move.
 
 The following screenshots reveal how SuperChess looks like.
 
-![SuperChess on Windows 11](link "SuperChess on Windows 11")
+![SuperChess on Windows 11](https://user-images.githubusercontent.com/14254085/169717173-103d35a6-473f-4a2f-a5d4-2955a3a111f5.png "SuperChess on Windows 11")
 *Changing the settings.*
 
-![SuperChess on Windows 11](link "SuperChess on Windows 11")
+![SuperChess on Windows 11](https://user-images.githubusercontent.com/14254085/168563769-1f992997-1cbb-42ba-9fde-4d007301711a.png "SuperChess on Windows 11")
 *Selecting a move from the chess notation table.*
 
-![SuperChess on Windows 11](link "SuperChess on Windows 11")
-*Analyzing a position by the default Stockfish 15.1 chess engine.*
+![SuperChess on Windows 11](https://user-images.githubusercontent.com/14254085/168564923-517f123b-00a1-439f-8adb-fb157d1d9f0e.png "SuperChess on Windows 11")
+*Analyzing a position by the default Stockfish chess engine.*
 
-![SuperChess on Windows 11](link "SuperChess on Windows 11")
+![SuperChess on Windows 11](https://user-images.githubusercontent.com/14254085/171037972-29497da1-d750-4dbc-bced-2bcee1b2c858.png "SuperChess on Windows 11")
 *Promoting a White's pawn to a queen, a rook, a bishop, or a knight.*
 
 ## Chess engine
